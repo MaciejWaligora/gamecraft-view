@@ -1,0 +1,27 @@
+{
+  "name": "gamecraft-view",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaciejWaligora/gamecraft-view.git"
+  },
+  "author": "Maciej Waligora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaciejWaligora/gamecraft-view/issues"
+  },
+  "homepage": "https://github.com/MaciejWaligora/gamecraft-view#readme",
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "dependencies": {
+    "gamecraft-utils": "^1.0.0",
+    "pixijs": "^7.1.4"
+  }
+}
